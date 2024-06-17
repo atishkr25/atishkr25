@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @atishkr25
+- 👋 Hi, I’m Atish
 - 👀 I’m interested in competative programming and learning new technologies,
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me gmail: atishkumar6115@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
