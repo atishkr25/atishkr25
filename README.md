@@ -22,8 +22,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
-### 🐍 Watch My GitHub Contribution Snake!
-![GitHub Contribution Snake](https://github.com/atishkr25/atishkr25/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🏆 Competitive Programming Profiles
 <p align="left">
