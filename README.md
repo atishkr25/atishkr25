@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Atish 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<!--
-**atishkr25/atishkr25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 I’m currently studying **Btech, Comouter Science** at **ABES Engineering College, Ghaziabad**  
+- 💻 I’m passionate about **Web Development, Data Structures & Algorithms, and Open Source**
+- 🏆 Active on **LeetCode, CodeChef & Codeforces**
+- 📫 How to reach me: **atish.site1@gmail.com**  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+### 🐍 Watch My GitHub Contribution Snake!
+![GitHub Contribution Snake](https://github.com/atishkr25/atishkr25/blob/output/github-contribution-grid-snake.svg)
+
+## 🏆 Competitive Programming Profiles
+<p align="left">
+  <a href="https://leetcode.com/atish0110">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/atishkumar65">
+    <img src="https://img.shields.io/badge/CodeChef-%23008B8B.svg?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/atishkumar6115">
+    <img src="https://img.shields.io/badge/Codeforces-%231728C6.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+## 💡 Projects frontend
+🌤️ **[Weather App](#)**  
+🚀 **[Usability Clone](#)** *(https://atishkr25.github.io/usability-clone/)*  
+📝 **[Portfolio Website](#)**  
+🏫 **[A college Club Website](#)** *(https://unstop-igniters-club.netlify.app/)*  
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://github.com/atishkr25"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/atishkrs/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/atishkr25"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+🔄 **Last Updated:** `jan 2025`  
