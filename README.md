@@ -4,7 +4,7 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 I’m currently studying **Btech, Comouter Science** at **ABES Engineering College, Ghaziabad**  
+- 🎓 I’m currently studying **Btech, Computer Science** at **ABES Engineering College, Ghaziabad**  
 - 💻 I’m passionate about **Web Development, Data Structures & Algorithms, and Open Source**
 - 🏆 Active on **LeetCode, CodeChef & Codeforces**
 - 📫 How to reach me: **atish.site1@gmail.com**  
