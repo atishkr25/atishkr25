@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Atish 👋</h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ## 🚀 About Me
 - 🎓 I’m currently studying **Btech, Computer Science** at **ABES Engineering College, Ghaziabad**  
