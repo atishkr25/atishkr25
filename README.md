@@ -1,62 +1,89 @@
-<h1 align="center">Hi, I'm Atish 👋</h1>
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p> -->
-
-## 🚀 About Me
-- 🎓 I’m currently studying **Btech, Computer Science** at **ABES Engineering College, Ghaziabad**  
-- 💻 I’m passionate about **Web Development, Data Structures & Algorithms, and Open Source**
-- 🏆 Active on **LeetCode, CodeChef & Codeforces**
-- 📫 How to reach me: **atish.site1@gmail.com**  
-
-## 🛠️ Skills & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<div align="center">
   
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Atish!;Code+%E2%80%A2+Create+%E2%80%A2+Solve;Web+Developer" alt="Typing SVG" />
+
+  <p>
+    <em>Computer Science Student • Web Development • Open Source</em>
+  </p>
   
+  <a href="mailto:atish.site1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-ff5555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/atishkrs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/atishkr25">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 
+  <br /><br />
+
+  <h3>🛠️ Tech Arsenal</h3>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+
+  <br /><br />
+
+  <h3>📊 GitHub Analytics</h3>
   
-</p>
+  [![Atish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atishkr25&show_icons=true&theme=dracula&hide_border=true)](https://github.com/atishkr25)
+  
+  <br/>
+  
+  [![Atish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=atishkr25&theme=dracula&hide_border=true)](https://github.com/atishkr25)
+  
+  [![Atish's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atishkr25&layout=compact&theme=dracula&hide_border=true)](https://github.com/atishkr25)
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atishkr25&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streaks.vercel.app/?user=atishkr25&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atishkr25&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages" />
-</p>
+  <br />
 
+  <h3>🚀 Featured Projects</h3>
+  <table>
+    <thead align="center">
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>Portfolio Website</b></td>
+        <td>Personal showcase of skills & work.</td>
+        <td><a href="https://atishkr25.github.io/My-Portfolio/">View</a></td>
+      </tr>
+      <tr>
+        <td><b>Unstop Igniters</b></td>
+        <td>Official college club website.</td>
+        <td><a href="https://unstop-igniters-club.netlify.app/">View</a></td>
+      </tr>
+      <tr>
+        <td><b>Usability Clone</b></td>
+        <td>UI/UX frontend replication.</td>
+        <td><a href="https://atishkr25.github.io/usability-clone/">View</a></td>
+      </tr>
+    </tbody>
+  </table>
 
-## 🏆 Competitive Programming Profiles
-<p align="left">
+  <br />
+
+  <h3>🏆 Coding Profiles</h3>
   <a href="https://leetcode.com/atish0110">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/atishkumar65">
-    <img src="https://img.shields.io/badge/CodeChef-%23008B8B.svg?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
   <a href="https://codeforces.com/profile/atishkumar6115">
-    <img src="https://img.shields.io/badge/Codeforces-%231728C6.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-</p>
 
-## 💡 Projects frontend
-🌤️ **[Weather App](#)**  
-🚀 **[Usability Clone](#)** *(https://atishkr25.github.io/usability-clone/)*  
-📝 **[Portfolio Website](#)**  (https://atishkr25.github.io/My-Portfolio/)
-🏫 **[A college Club Website](#)** *(https://unstop-igniters-club.netlify.app/)*  
-
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://github.com/atishkr25"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/atishkrs/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/atishkr25"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
----
-
-🔄 **Last Updated:** `jan 2025`  
+  <br /><br />
+  
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=60&section=footer" width="100%"/>
+  </p>
+</div>
