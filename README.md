@@ -85,7 +85,7 @@
   <br />
 
   <h3>🏆 Coding Profiles</h3>
-  <a href="https://leetcode.com/atish0110">
+  <a href="https://leetcode.com/atishkr25">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/atishkumar65">
