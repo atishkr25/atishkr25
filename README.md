@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Atish Kumar
 
-<!--
-**atishkr25/atishkr25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Developer | Backend Enthusiast | Open Source Learner
 
-Here are some ideas to get you started:
+- 🔭 Currently building backend projects
+- 🌱 Learning Go for scalable backend systems
+- 💼 Looking for Internship / Backend Developer roles
+- 💬 Ask me about Node.js, Express, MongoDB, React
+- 📫 Reach me at: atishkumar6115@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
+
+### 🎨 Frontend
+- React.js
+- HTML
+- CSS
+- JavaScript
+
+### ⚙️ Tools
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 SmartHire – Job matching platform
+- 🔹 React Documentation Project
+- 🔹 GetYourMovie - movie search system | reacjs
+
+---
+
+## 📊 GitHub Stats
+
+![Atish's GitHub stats](https://github-readme-stats.vercel.app/api?username=atishkr25&show_icons=true&theme=tokyonight)
+
+---
+
+⭐ learning, building.
