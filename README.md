@@ -1,6 +1,6 @@
 ```bash
 $ whoami
-atish — full-stack developer
+atish — fullstack dev
 
 $ cat philosophy.txt
 frontend that looks good. backend that (hopefully) doesn’t break.
