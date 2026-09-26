@@ -3,7 +3,7 @@ $ whoami
 atish — fullstack dev
 
 $ cat philosophy.txt
-frontend that looks good. backend that (hopefully) doesn’t break.
+frontend that looks good, backend that (hopefully) doesn’t break.
 
 $ ls ./currently
 building-ai-apps/   learning-new-stuff/   fighting-merge-conflicts/
